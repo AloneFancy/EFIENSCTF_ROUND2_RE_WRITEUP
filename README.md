@@ -1,6 +1,6 @@
 # Efiens CTF 2019 Round 2 -RE Challenges Write Up #
 ---
-I am Alone Fancy. I just forked this for study and I am NOT the owner of this writeup. If the author doesn't agree. please contact me and I will remove it.
+I am Alone Fancy. I just forked this for study and I am NOT the owner of this writeup. If the author doesn't agree, please contact me and I will remove it.
 
 Ngày 24/10/2019 câu lạc bộ An toàn thông tin ĐH BKHCM - Efiens tổ chức tuyển thành viên round2. Đây là writeup của mình cho toàn bộ bài mảng RE.
 ## Picture Cipher ##
